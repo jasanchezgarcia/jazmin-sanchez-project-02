@@ -1,0 +1,32 @@
+body {
+    background-color: #ffeead;
+    color: #3d405b;
+    font-family: arial, sans-serif;
+}
+h1 { 
+    color: #29220a;
+    font-family: "Times New Roman", serif;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    color: #673607;
+    font-family: "Times New Roman", serif;
+    padding: 15px;
+}
+div {
+
+    width: 300px; 
+    height: 100px;
+    background-color: #abb462;
+    border: 1px solid black;
+    padding: 20px;
+    Margin: 50px auto;
+
+}
+h2 {
+    color: #29220a;
+    font-family: "Times New Roman", serif;
+    padding: 20px;
+}
